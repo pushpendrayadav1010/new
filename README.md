@@ -1,20 +1,28 @@
-# Hi 👋 I'm Pushpendra Yadav
+👋 About Me
 
-💻 Computer Engineering Student  
-🐍 Learning Python & Web Development  
-🚀 Building Projects & Improving DSA Skills  
+💻 Aspiring Software Engineer
+🐍 Python | DSA | Web Development
+🚀 Building projects and exploring startup ideas
 
-## Skills
-- Python
-- HTML
-- CSS
-- GitHub
-- DSA
+🛠️ Tech Stack
 
-## Current Goals
-- Build real-world projects
-- Learn Full Stack Development
-- Improve Problem Solving
+Python | HTML | CSS | JavaScript | Git | GitHub
+
+🚀 Featured Projects
+
+NexusERP-AI
+Amazon Clone
+Garuda
+
+📈 Currently Learning
+
+DSA
+Backend Development
+System Design
+
+🤝 Open Source
+
+Contributing to Garuda
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/pushpendra-yadav-196183383
